@@ -1,0 +1,14 @@
+{
+  "name": "exact-assign",
+  "version": "1.0.0",
+  "description": "This project demonstrates a multi-stage Docker build using:\r - Node.js and Puppeteer to scrape a user-specified URL\r - Python Flask to host the scraped result",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.7.0"
+  }
+}
